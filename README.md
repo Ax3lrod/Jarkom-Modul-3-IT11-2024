@@ -1142,6 +1142,9 @@ upstream worker {
 
 ![image.png](Jarkom%20Modul%203%2012765c4d222080c79612ddde981a9707/image%2016.png)
 
+![rpsno8](https://github.com/user-attachments/assets/54540a81-b8d0-4d05-8549-5d0292d14bbe)
+
+
 ## Soal 9
 
 Dengan menggunakan algoritma Least-Connection, lakukan testing dengan menggunakan 3 worker, 2 worker, dan 1 worker sebanyak 1000 request dengan 10 request/second, kemudian tambahkan grafiknya pada “laporan kerja Armin”.
@@ -1187,6 +1190,9 @@ upstream worker {
 ```
 
 ![image.png](Jarkom%20Modul%203%2012765c4d222080c79612ddde981a9707/image%2019.png)
+
+![rpsno9](https://github.com/user-attachments/assets/ceb11e26-5f45-4473-8941-ba9c0e438445)
+
 
 ## Soal 10
 
