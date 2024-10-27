@@ -1,4 +1,9 @@
-# Jarkom Modul 3
+# Laporan Resmi Praktikum Komunikasi Data dan Jaringan Komputer Soal Shift Modul 3 Kelompok IT11
+
+| Nama | NRP   |
+|:-------------|:----------:|
+| Aryasatya Alaauddin | 5027231082 |
+| Almendo Jekson Darwin Naftali Kambu | 5027221073 | 
 
 ![image.png](Jarkom%20Modul%203%2012765c4d222080c79612ddde981a9707/image.png)
 
